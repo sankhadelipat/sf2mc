@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>New</fullName>
+        <default>true</default>
+        <label>New</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Attempted Contact</fullName>
+        <default>false</default>
+        <label>Attempted Contact</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Working</fullName>
+        <default>false</default>
+        <label>Working</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Interested</fullName>
+        <default>false</default>
+        <label>Interested</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Engaged</fullName>
+        <default>false</default>
+        <label>Engaged</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Nurture</fullName>
+        <default>false</default>
+        <label>Nurture</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Do Not Disturb (DND)</fullName>
+        <default>false</default>
+        <label>Do Not Disturb (DND)</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Customer</fullName>
+        <default>false</default>
+        <label>Customer</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Prospect</fullName>
+        <default>false</default>
+        <label>Prospect</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Closed – Not a Fit</fullName>
+        <default>false</default>
+        <label>Closed – Not a Fit</label>
+        <converted>false</converted>
+    </standardValue>
+    <standardValue>
+        <fullName>Closed – Converted</fullName>
+        <default>false</default>
+        <label>Closed – Converted</label>
+        <converted>true</converted>
+    </standardValue>
+</StandardValueSet>

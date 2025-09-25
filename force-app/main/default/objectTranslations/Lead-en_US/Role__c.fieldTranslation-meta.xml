@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Role --></label>
+    <name>Role__c</name>
+    <picklistValues>
+        <masterLabel>Attorney</masterLabel>
+        <translation><!-- Attorney --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Case Manager</masterLabel>
+        <translation><!-- Case Manager --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Office Admin</masterLabel>
+        <translation><!-- Office Admin --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Paralegal</masterLabel>
+        <translation><!-- Paralegal --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

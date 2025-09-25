@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Tags --></label>
+    <name>Tags__c</name>
+    <picklistValues>
+        <masterLabel>High Volume</masterLabel>
+        <translation><!-- High Volume --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PI Only</masterLabel>
+        <translation><!-- PI Only --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Workers Comp</masterLabel>
+        <translation><!-- Workers Comp --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
